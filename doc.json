@@ -1,0 +1,13 @@
+{
+  "_createdAt": "2026-01-30T18:29:00Z",
+  "_id": "drafts.0f53123f-48ee-4ac3-a705-cd068cf7b310",
+  "_rev": "bfe5ac36-0f46-4d81-a0b9-9c928e0f18b9",
+  "_type": "post",
+  "_updatedAt": "2026-01-30T18:31:09.659Z",
+  "slug": {
+    "_type": "slug",
+    "current": "this-is-a-test"
+  },
+  "body": [],
+  "title": "Affected Document"
+}
